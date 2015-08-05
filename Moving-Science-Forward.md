@@ -188,7 +188,7 @@ their changes need to be automatically tracked to promote good standards.
 Journals are primarily categorized by their field of study and some may claim
 that without them, researchers will be lost in the flood of articles. To
 address these concerns, it will be necessary to provide a set of primitives –
-ranking, search index, etc – that will allow more sophisticated navigation of
+ranking, search index, etc. – that will allow more sophisticated navigation of
 the large amount of content. These capabilities should not be built in, lest
 they will be unsuitable for the growing needs of researchers. Algorithms can be
 developed as needed to provide more specific results or show only the more
@@ -237,7 +237,7 @@ We are soliciting a grant of $1m for a two year period to develop an open
 standard of a protocol to support scientific research over the Internet and
 provide an initial implementation for universities and other institutions to
 begin using. Funding will go towards the full time salary of five team members
-which is competitive with the programming industry. Community involvement in
+that is competitive with the programming industry. Community involvement in
 the development process will ensure a protocol that is useful to the whole
 scientific body, but will require significant time to manage these
 communications. A two year period should allow ample time to incorporate
