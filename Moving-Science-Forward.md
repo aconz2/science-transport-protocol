@@ -251,18 +251,18 @@ future. A system to support scientific research at a heightened pace and of
 greater quality is necessary to meet these challenges.
 
 ## References
-Aaas.org,. 'Historical Trends In Federal R&D | AAAS - The World's Largest General Scientific Society'. N.p., 2015. Web. 11 July 2015.
-Andraka, Jack. 'Why Science Journal Paywalls Have To Go - The Student Blog'. The Student Blog. N.p., 2013. Web. 11 July 2015.
-Baker, Monya. 'Irreproducible Biology Research Costs Put At $28 Billion Per Year'. Nature (2015): n. pag. Web. 11 July 2015.
-Ferguson, Cat, Adam Marcus, and Ivan Oransky. 'Publishing: The Peer-Review Scam'. Nature 515.7528 (2014): 480-482. Web. 11 July 2015.
-Harris, Richard. 'U.S. Science Suffering From Booms And Busts In Funding'. NPR.org. N.p., 2014. Web. 11 July 2015.
-LaCour, M. J., and D. P. Green. 'When Contact Changes Minds: An Experiment On Transmission Of Support For Gay Equality'. Science 346.6215 (2014): 1366-1369. Web. 11 July 2015.
-'Review Rewards'. Nature 514.7522 (2014): 274-274. Web. 11 July 2015.
-Sample, Ian. 'Harvard University Says It Can't Afford Journal Publishers' Prices'. the Guardian. N.p., 2012. Web. 11 July 2015.
-Singh Chawla, Dalmeet. 'Scientist Registry Unveils Plan To Recognize Efforts Of Peer-Reviewers'. Nature (2015): n. pag. Web. 11 July 2015.
-Smith, Richard. 'Peer Review: A Flawed Process At The Heart Of Science And Journals'. Journal of the Royal Society of Medicine 99.4 (2006): 178-182. Web. 11 July 2015.
-Van Noorden, Richard. 'Science Publishing: The Trouble With Retractions'. Nature 478.7367 (2011): 26-28. Web. 11 July 2015.
-Ware, Mark, Mabe, Michael, STM,. The STM Report. 2015. Web. 11 July 2015.
+ - Aaas.org,. 'Historical Trends In Federal R&D| AAAS - The World's Largest General Scientific Society'. N.p., 2015. Web. 11 July 2015.
+ - Andraka, Jack. 'Why Science Journal Paywalls Have To Go - The Student Blog'. The Student Blog. N.p., 2013. Web. 11 July 2015.
+ - Baker, Monya. 'Irreproducible Biology Research Costs Put At $28 Billion Per Year'. Nature (2015): n. pag. Web. 11 July 2015.
+ - Ferguson, Cat, Adam Marcus, and Ivan Oransky. 'Publishing: The Peer-Review Scam'. Nature 515.7528 (2014): 480-482. Web. 11 July 2015.
+ - Harris, Richard. 'U.S. Science Suffering From Booms And Busts In Funding'. NPR.org. N.p., 2014. Web. 11 July 2015.
+ - LaCour, M. J., and D. P. Green. 'When Contact Changes Minds: An Experiment On Transmission Of Support For Gay Equality'. Science 346.6215 (2014): 1366-1369. Web. 11 July 2015.
+ - 'Review Rewards'. Nature 514.7522 (2014): 274-274. Web. 11 July 2015.
+ - Sample, Ian. 'Harvard University Says It Can't Afford Journal Publishers' Prices'. the Guardian. N.p., 2012. Web. 11 July 2015.
+ - Singh Chawla, Dalmeet. 'Scientist Registry Unveils Plan To Recognize Efforts Of Peer-Reviewers'. Nature (2015): n. pag. Web. 11 July 2015.
+ - Smith, Richard. 'Peer Review: A Flawed Process At The Heart Of Science And Journals'. Journal of the Royal Society of Medicine 99.4 (2006): 178-182. Web. 11 July 2015.
+ - Van Noorden, Richard. 'Science Publishing: The Trouble With Retractions'. Nature 478.7367 (2011): 26-28. Web. 11 July 2015.
+ - Ware, Mark, Mabe, Michael, STM,. The STM Report. 2015. Web. 11 July 2015.
 
 
 
