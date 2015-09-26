@@ -151,6 +151,8 @@ they said and when they said it, which is currently missing from peer review.
 In addition, data analysis of the network could reveal personal bias and other
 underlying problems which are currently imperceptible.
 
+![Figure 1 & Figure 2](https://raw.githubusercontent.com/aconz2/science-transport-protocol/master/figures1_2.png)
+
 Maintaining a full record of changes to a research paper provides immense
 power. Consider Figure 1, where paper B cites paper A, but some time later
 paper A is revised. Paper B may now be citing outdated information and its
